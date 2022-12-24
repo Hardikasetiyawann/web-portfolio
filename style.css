@@ -1,0 +1,52 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #eddafc;
+}
+
+#projects {
+  background-color: #eddafc;
+}
+
+#contact {
+  background-color: #eddafc;
+}
+
+section {
+  padding-top: 6rem;
+}
+
+.my-card {
+  background-color: #9e2ef4;
+}
+
+.my-text {
+  color: #fcfcfc;
+}
+.my-text2 {
+  color: #c1bfbf;
+}
+
+.footer {
+  padding: 40px 0;
+  background-color: #570381;
+}
+
+.footer .social {
+  text-align: center;
+  padding-bottom: 25px;
+  color: #fcfcfc;
+}
+
+.footer .social a {
+  font-size: 24px;
+  color: inherit;
+  border: 1px solid #fcfcfc;
+  width: 40px;
+  height: 40px;
+  line-height: 38px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  margin: 0 8px;
+  opacity: 0.75;
+}
